@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Helium",
+    "path": "C:\\Users\\lisaj\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Helium.lnk",
+    "icon": "C:\\Users\\lisaj\\.config\\yasb\\launchpad\\icons\\helium_1768499460584.png",
+    "type": "app",
+    "id": 1768499460588
+  },
+  {
+    "title": "Visual Studio Code",
+    "path": "C:\\Users\\lisaj\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\Visual Studio Code.lnk",
+    "icon": "C:\\Users\\lisaj\\.config\\yasb\\launchpad\\icons\\visual_studio_code_1768499472081.png",
+    "type": "app",
+    "id": 1768499472084
+  },
+  {
+    "title": "Alacritty",
+    "path": "C:\\Users\\lisaj\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\Alacritty.lnk",
+    "icon": "C:\\Users\\lisaj\\.config\\yasb\\launchpad\\icons\\alacritty_1768499495426.png",
+    "type": "app",
+    "id": 1768499495434
+  },
+  {
+    "title": "Cursor",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Cursor\\Cursor.lnk",
+    "icon": "C:\\Users\\lisaj\\.config\\yasb\\launchpad\\icons\\cursor_1768509063695.png",
+    "type": "app",
+    "id": 1768509063698
+  },
+  {
+    "title": "Outlook (PWA)",
+    "path": "C:\\Users\\lisaj\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Helium Apps\\Outlook (PWA).lnk",
+    "icon": "C:\\Users\\lisaj\\.config\\yasb\\launchpad\\icons\\outlook_pwa_1768510315190.png",
+    "type": "app",
+    "id": 1768510315191
+  },
+  {
+    "title": "Raycast",
+    "path": "explorer.exe shell:AppsFolder\\Raycast.Raycast_qypenmj9wpt2a!Raycast",
+    "icon": "C:\\Users\\lisaj\\.config\\yasb\\launchpad\\icons\\raycast_1768510619016.png",
+    "type": "app",
+    "id": 1768510619019
+  },
+  {
+    "title": "Visual Studio",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio.lnk",
+    "icon": "C:\\Users\\lisaj\\.config\\yasb\\launchpad\\icons\\visual_studio_1768510634194.png",
+    "type": "app",
+    "id": 1768510634195
+  }
+]

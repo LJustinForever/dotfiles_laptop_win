@@ -1,0 +1,4 @@
+[2m2026-01-15T17:10:17.666617Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'zebar'.
+
+Error: The operation was canceled by the user. (0x800704C7)
+[2m2026-02-27T22:41:25.757169Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
